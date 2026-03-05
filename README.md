@@ -4,7 +4,7 @@ Computational analysis comparing cytosine content, nucleotide/amino acid composi
 
 ## Overview
 
-Prions are self-propagating protein conformations that can act as heritable elements of phenotypic change. In yeast, at least 18 proteins have been experimentally confirmed to form prions. This project investigates whether the DNA and protein sequence composition of prion-forming genes is systematically distinct from the rest of the yeast genome — with particular attention to **cytosine content** and its downstream consequences on amino acid usage and codon bias.
+Prions are self-propagating protein agents that can act as non-mendellian heritable elements. In yeast, at least 18 proteins have been experimentally confirmed to form prions. This project investigates whether the DNA and protein sequence composition of prion-forming genes is systematically distinct from the rest of the yeast genome — with particular attention to **cytosine content** and its downstream consequences on amino acid usage and codon bias.
 
 ## Data
 
